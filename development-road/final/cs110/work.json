@@ -27,7 +27,20 @@
     "supportMode": "team",
     "role": "Developer / Lead",
     "board": {
-      "nodes": [],
+      "nodes": [
+        {
+          "id": "cd29cf23-5e02-443a-a5dd-7870bba729d7",
+          "kind": "text",
+          "x": 0,
+          "y": 109.08203125,
+          "w": 150,
+          "h": 70,
+          "text": "Name this block",
+          "owner": "",
+          "due": "",
+          "description": ""
+        }
+      ],
       "edges": [],
       "strokes": []
     },
