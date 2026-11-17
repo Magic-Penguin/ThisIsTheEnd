@@ -1,15 +1,17 @@
 {
   "schema": "final-road-work-v1",
+  "payloadVersion": 2,
   "course": "CS110",
   "name": "David Lopez",
   "work": {
     "project": "DUFF",
-    "projectDescription": ">Do the Unknown Frequently, Fearlessly\nMedia page about helping people step outside their comfort zone\n\n\"Mini game\" giving users small tasks that urge them to step out of their comfortability\n>>>",
+    "projectDescription": ">Do the Uncomfortable Frequently, Fearlessly\nMedia page about helping people step outside their comfort zone (website)\n\n(Phone App) - Main premise\n\"Mini game\" giving users small tasks that urge them to step out of their comfortability",
     "path": "desktop",
     "selected": [
       "save"
     ],
     "engine": "Unity / C#",
+    "environmentTest": true,
     "gitEvidence": "Git is linked and have a notification that recent pushes are available.",
     "ai": "Gemini/Chat",
     "aiVerify": "Inspect the files are in order and functional",
@@ -17,6 +19,7 @@
     "plan": "",
     "availability": "",
     "service": "",
+    "supportMode": "team",
     "role": "Developer / Lead",
     "board": {
       "nodes": [],
@@ -31,7 +34,46 @@
       "questions": ""
     },
     "evidence": {},
+    "dailyDraft": {
+      "meeting": "",
+      "worked": "",
+      "next": "",
+      "blocker": "",
+      "evidence": ""
+    },
+    "requirements": [
+      {
+        "id": "core",
+        "code": "R01",
+        "title": "Working project foundation",
+        "evidence": "Working source and build (60); authored program logic (35); meaningful tests (20); run guide and evidence map (20); individual explanation (15)."
+      },
+      {
+        "id": "save",
+        "code": "R02",
+        "title": "Save and restore progress",
+        "evidence": "Save meaningful state; close and reopen the program; demonstrate correct restoration and invalid-file handling."
+      }
+    ],
     "tasks": [],
     "dailyNotes": []
-  }
+  },
+  "team": {
+    "name": "DUFF - Do the Unknown Frequently , Fearlessly",
+    "mode": "team",
+    "project": "DUFF",
+    "projectRepo": "",
+    "members": [
+      {
+        "name": "David Lopez",
+        "role": "Developer / Lead"
+      }
+    ]
+  },
+  "sharedPlan": {
+    "goal": "",
+    "plan": "",
+    "tasks": []
+  },
+  "completedReports": []
 }
