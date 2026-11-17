@@ -3,7 +3,8 @@
   "course": "CS110",
   "name": "David Lopez",
   "work": {
-    "project": "A story worth playing",
+    "project": "DUFF Survival",
+    "projectDescription": "2-D, wave-based game built around team survival against the attacking foe.",
     "path": "arcade",
     "selected": [
       "save"
