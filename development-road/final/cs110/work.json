@@ -11,7 +11,9 @@
       "save",
       "modular",
       "defense",
-      "secure"
+      "secure",
+      "external",
+      "settings"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -74,6 +76,18 @@
         "code": "R11",
         "title": "Secure input and data handling",
         "evidence": "Document threats relevant to the project and test validation, safe error handling and protection of private data."
+      },
+      {
+        "id": "external",
+        "code": "R13",
+        "title": "External playtest and revision",
+        "evidence": "Use consented feedback from at least three testers; document problems, fixes and retest evidence."
+      },
+      {
+        "id": "settings",
+        "code": "R04",
+        "title": "Settings that persist",
+        "evidence": "Provide useful settings, validate changes, save them and demonstrate restoration. This must extend beyond the same progress data."
       }
     ],
     "tasks": [],
