@@ -96,10 +96,10 @@
     "evidence": {},
     "dailyDraft": {
       "meeting": "CS110-2026-11-17",
-      "worked": "Developed our initial idea for the project we would like to create; working with Jesse to create a mobile app.",
-      "next": "",
-      "blocker": "",
-      "evidence": ""
+      "worked": "Developed our initial idea for the project we would like to create; working with Jesse to create a mobile app. Created the basic idea of what the app will comprise and what the initial boot up screens will entail.",
+      "next": "Plan some more, familiarize with mobile app development and move on from there.",
+      "blocker": "Just untapped knowledge/potential. Working toward understanding how to create a functional product in Visual Studio",
+      "evidence": "Day1WB (in Git)"
     },
     "requirements": [
       {
@@ -171,7 +171,24 @@
         ]
       }
     ],
-    "dailyNotes": []
+    "dailyNotes": [
+      {
+        "date": "2026-11-17",
+        "revision": 1,
+        "worked": "Developed our initial idea for the project we would like to create; working with Jesse to create a mobile app. Created the basic idea of what the app will comprise and what the initial boot up screens will entail.",
+        "next": "Plan some more, familiarize with mobile app development and move on from there.",
+        "blocker": "Just untapped knowledge/potential. Working toward understanding how to create a functional product in Visual Studio",
+        "evidence": "Day1WB (in Git)",
+        "tasks": [
+          {
+            "title": "Lead / Create & Develop",
+            "due": "2026-12-18T15:14",
+            "done": false,
+            "result": ""
+          }
+        ]
+      }
+    ]
   },
   "team": {
     "name": "DUFF - Do the Unknown Frequently , Fearlessly",
