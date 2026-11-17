@@ -90,8 +90,8 @@
       "stage": 2,
       "returned": true,
       "goal": "The overall mission is to create the app, but the smallest result is to create a list of the tasks that can be shown/completed by the user",
-      "personal": "In my role I am the lead,",
-      "questions": ""
+      "personal": "In my role I am the lead, thinking of ideas and helping with development.",
+      "questions": "The things that need to be tested are just functionality in the beginning. UI can be changed to look better but the foundational code needs to be proper and working before all."
     },
     "evidence": {},
     "dailyDraft": {
@@ -145,7 +145,32 @@
         "evidence": "Provide useful settings, validate changes, save them and demonstrate restoration. This must extend beyond the same progress data."
       }
     ],
-    "tasks": [],
+    "tasks": [
+      {
+        "id": "node-d9d42a0f-d414-4fe9-bb14-054edca27318",
+        "title": "Lead",
+        "owner": "David Lopez",
+        "due": "",
+        "done": false,
+        "result": "",
+        "description": "",
+        "nodeId": "d9d42a0f-d414-4fe9-bb14-054edca27318",
+        "dependsOn": []
+      },
+      {
+        "id": "node-08776c8a-e2f3-4369-8e85-d32b0ed802b1",
+        "title": "Create & Develop",
+        "owner": "Jesse Sanchez Marquez",
+        "due": "",
+        "done": false,
+        "result": "",
+        "description": "",
+        "nodeId": "08776c8a-e2f3-4369-8e85-d32b0ed802b1",
+        "dependsOn": [
+          "node-d9d42a0f-d414-4fe9-bb14-054edca27318"
+        ]
+      }
+    ],
     "dailyNotes": []
   },
   "team": {
