@@ -4,14 +4,14 @@
   "name": "David Lopez",
   "work": {
     "project": "A story worth playing",
-    "path": "story",
+    "path": "arcade",
     "selected": [
       "save"
     ],
     "engine": "Unity / C#",
-    "gitEvidence": "",
+    "gitEvidence": "Git is linked and have a notification that recent pushes are available.",
     "ai": "Gemini/Chat",
-    "aiVerify": "",
+    "aiVerify": "Inspect the files are in order and functional",
     "notes": "I can bring new ideas, a straight-forward mindset of work development, and a good mindset/attitude to work alongside.",
     "plan": "",
     "availability": "",
