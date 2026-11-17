@@ -3,9 +3,9 @@
   "course": "CS110",
   "name": "David Lopez",
   "work": {
-    "project": "DUFF Survival",
-    "projectDescription": "2-D, wave-based game built around team survival against the attacking foe.",
-    "path": "arcade",
+    "project": "DUFF",
+    "projectDescription": ">Do the Unknown Frequently, Fearlessly\nMedia page about helping people step outside their comfort zone\n\n\"Mini game\" giving users small tasks that urge them to step out of their comfortability\n>>>",
+    "path": "desktop",
     "selected": [
       "save"
     ],
