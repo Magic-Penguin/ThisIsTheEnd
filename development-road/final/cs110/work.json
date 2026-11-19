@@ -25,7 +25,7 @@
     "availability": "",
     "service": "",
     "supportMode": "team",
-    "role": "Developer / Lead",
+    "role": "Developer",
     "board": {
       "nodes": [
         {
@@ -198,7 +198,7 @@
     "members": [
       {
         "name": "David Lopez",
-        "role": "Developer / Lead"
+        "role": "Developer"
       },
       {
         "name": "Jesse Sanchez Marquez",
