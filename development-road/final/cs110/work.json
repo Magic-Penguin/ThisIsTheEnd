@@ -97,7 +97,7 @@
     "dailyDraft": {
       "meeting": "CS110-2026-11-19",
       "worked": "Used the resources at my disposal to lay out the foundational principles and philosophies around the mobile app.\nDUFF: Do the Uncomfortable Frequently, Fearlessly. Mobile app based around taking small actions that intend to strive toward personal growth, increased confidence and social skills, and overall mental and physical betterment of the user. \n#LessPlanning.LessScrolling.MoreDoing",
-      "next": "Familiarize myself with VSCode",
+      "next": "Familiarize myself with VSCode by researching videos and tutorials that are out there on YT and other places. More to be done with planning of course, but would like to build foundational code, that translates what we know about the app.",
       "blocker": "",
       "evidence": "https://github.com/Magic-Penguin/ThisIsTheEnd"
     },
@@ -179,6 +179,22 @@
         "next": "Plan some more, familiarize with mobile app development and move on from there.",
         "blocker": "Just untapped knowledge/potential. Working toward understanding how to create a functional product in Visual Studio",
         "evidence": "Day1WB (in Git)",
+        "tasks": [
+          {
+            "title": "Lead / Create & Develop",
+            "due": "2026-12-18T15:14",
+            "done": false,
+            "result": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-11-19",
+        "revision": 1,
+        "worked": "Used the resources at my disposal to lay out the foundational principles and philosophies around the mobile app.\nDUFF: Do the Uncomfortable Frequently, Fearlessly. Mobile app based around taking small actions that intend to strive toward personal growth, increased confidence and social skills, and overall mental and physical betterment of the user. \n#LessPlanning.LessScrolling.MoreDoing",
+        "next": "Familiarize myself with VSCode by researching videos and tutorials that are out there on YT and other places. More to be done with planning of course, but would like to build foundational code, that translates what we know about the app.",
+        "blocker": "",
+        "evidence": "https://github.com/Magic-Penguin/ThisIsTheEnd",
         "tasks": [
           {
             "title": "Lead / Create & Develop",
